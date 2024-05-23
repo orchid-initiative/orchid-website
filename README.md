@@ -6,7 +6,7 @@ To do: The template should have the charter for projects in progress, but the pr
 
 
 ### Status
-
+The website is currently published and functional. Our team is currently working on implementing feedback and implementing new pages.
 
 ### General Information
 - Want to learn more about the project's scope and objectives? Check out the [project charter](documentation/PROJECT_CHARTER.md).
