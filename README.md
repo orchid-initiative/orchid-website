@@ -12,4 +12,4 @@ The website is currently published and functional. Our team is currently working
 - Have questions or feedback? Join the discussion on our GitHub Discussions page.  Or, you can use the GitHub issues page to report bugs and request new features.
 - Looking for internal project management documents? Those are stored in this Google Drive folder. (TODO: Fill In)
 
-### Additional Resources
+<!--- ### Additional Resources --->
